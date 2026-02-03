@@ -1,0 +1,19 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+.Rproj.user/
+
+# Outputs
+output/
+figs/
+plots/
+
+# Data (optional: if private/large)
+data/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
